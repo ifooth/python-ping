@@ -39,7 +39,7 @@ ICMP_ECHO = 8 # Echo request (per RFC792)
 ICMP_MAX_RECV = 2048 # Max size of incoming buffer
 
 MAX_SLEEP = 1000
-
+hello ping
 
 def calculate_checksum(source_string):
     """
